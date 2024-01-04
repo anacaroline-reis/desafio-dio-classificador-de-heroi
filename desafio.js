@@ -1,1 +1,3 @@
-console.log ("Estopinha é lindo");
+let nome = "ana caroline";
+console.log (nome);
+
